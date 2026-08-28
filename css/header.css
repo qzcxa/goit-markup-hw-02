@@ -6,6 +6,11 @@
   font-size: 18px;
   line-height: 1.33;
   letter-spacing: 0.03em;
+  color: #2e2f42;
+}
+.home-logo-part {
+  text-transform: uppercase;
+  color: #4d5ae5;
 }
 .main-nav {
 }
@@ -44,7 +49,6 @@
   color: #404bbf;
 }
 .item-email {
-  font-family: "Roboto", sans-serif;
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
@@ -52,7 +56,7 @@
   color: #434455;
 }
 .item-email:hover,
-.item-email::after {
+.item-email:focus {
   color: #404bbf;
 }
 .item-tel {
