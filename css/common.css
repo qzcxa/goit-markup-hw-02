@@ -4,7 +4,7 @@ body {
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
-  letter-spacing: 0.04em;   
+  letter-spacing: 0.04em;
 }
 span {
   text-transform: uppercase;
@@ -21,4 +21,3 @@ a {
 address {
   font-style: normal;
 }
-
