@@ -12,8 +12,6 @@
 .team-list {
 }
 .team-item {
-  flex-direction: column;
-  align-items: center;
   background: #fff;
 }
 .team-img {
